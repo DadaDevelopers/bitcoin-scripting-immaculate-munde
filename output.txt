@@ -1,0 +1,9 @@
+=== Simulate Alice Claiming ===
+✅ Alice claimed funds successfully!
+❌ Alice's secret is incorrect. Cannot claim.
+
+=== Simulate Bob Refund ===
+❌ Timeout not reached. Bob must wait 1259 seconds.
+
+=== Simulate Bob Refund after timeout ===
+✅ Bob refunded successfully after timeout!
